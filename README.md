@@ -1,6 +1,6 @@
 # CRUD
 
-node.js application was developed with express.js. implemented crub functions and REST API for interacting with client
+node.js application was developed with express.js. implemented CRUD functions and REST API for interacting with client
 
 ### Contacts
 
